@@ -1,4 +1,4 @@
-# micard
+# MIcard
 
 A new Flutter project.
 
